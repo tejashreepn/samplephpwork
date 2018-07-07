@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>frist devops class</h1>
+<h1>cloud pipeling to github</h1>
 
 <?php
-echo "Version: v1.1";
+echo "Weekend class";
 ?>
 
 </body>
